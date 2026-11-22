@@ -2,7 +2,7 @@
 
 ## Especificação do Desafio
 
-Este repositório contém os casos de teste em **JavaScript** utilizando **Jest** (abordagem **TDD**) para o desafio de **Batalha Naval** (proposto por **Cayque**), conforme a disciplina de Teste de Software:
+Este repositório contém os casos de teste em **JavaScript** utilizando **Jest** (abordagem **TDD**) para o desafio de **Batalha Naval**, conforme a disciplina de Teste de Software:
 
 * **Dimensões do tabuleiro:** `10 x 10` (10 linhas por 10 colunas, índices de `0` a `9`).
 * **Embarcações previstas:**
